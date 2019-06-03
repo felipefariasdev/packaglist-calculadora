@@ -9,7 +9,7 @@
             "email": "felipe.rodrigues.dev@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "require": {},
     "require-dev": {
         "phpunit/phpunit": "^8"
