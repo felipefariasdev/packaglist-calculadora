@@ -1,0 +1,22 @@
+{
+    "name": "felipefariasdev/packaglist-calculadora",
+    "description": "Simples exemplo de calculadora criando um packaglist com phpunit {PSR-4}",
+    "type": "packaglist-calculadora",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Farias",
+            "email": "felipe.rodrigues.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "AppFelipeFariasCalculadora\\": "src/"
+        }
+    }
+}
