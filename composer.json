@@ -1,6 +1,7 @@
 {
     "name": "felipefariasdev/packaglist-calculadora",
     "description": "Simples exemplo de calculadora criando um packaglist com phpunit {PSR-4}",
+    "minimum-stability": "dev-master",
     "type": "packaglist-calculadora",
     "license": "MIT",
     "authors": [
