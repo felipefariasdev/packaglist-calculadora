@@ -5,7 +5,7 @@ Exemplo de Utilização do pacote
 
 Execute o comando no console: $ php -S localhost:5000
 
-Visualizar o exemplo de utilização através da url: http://localhost:5000/exemplo.php
+Visualizar o exemplo de utilização através da url: http://localhost:5000/run.php
 
 */
 require 'vendor/autoload.php';

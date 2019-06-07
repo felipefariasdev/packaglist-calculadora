@@ -1,5 +1,4 @@
 <?php
-
 namespace AppFelipeFariasCalculadora;
 
 class Calculadora
