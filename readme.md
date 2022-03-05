@@ -8,6 +8,8 @@ $ composer install
 
 $ vendor/bin/phpunit
 
+$ vendor/bin/phpunit --testdox
+
 https://packagist.org/packages/felipefariasdev/packaglist-calculadora
 
 Para adicionar a dependencia ao seu projeto utilize o comando:
